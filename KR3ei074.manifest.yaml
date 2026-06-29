@@ -1,0 +1,739 @@
+canonical_identifier: bkk:krp/KR3ei074/v1
+canonical_location: https://kanripo.org/bkk/KR3ei074/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 廣嗣紀要
+  identifiers:
+    krp: KR3ei074
+  tags:
+    kr-categories: KR3ei
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei074.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei074_000.yaml, hash: 'sha256:9d4f5cabce0afb0e9aa155dff3451f5434e941dcf47da0079ddc21154754923a'}
+  - {seq: 1, filename: KR3ei074_001.yaml, hash: 'sha256:09eb81771a2ed12cc387ccd15fba202f3b892bc7b44931f6d57daab1d326eb5c'}
+  - {seq: 2, filename: KR3ei074_002.yaml, hash: 'sha256:55120b379568175d2d82b18e5c77d807c75c1e63f897dcb28f5d4ae966a9aff3'}
+  - {seq: 3, filename: KR3ei074_003.yaml, hash: 'sha256:ad9e8309416a1bf283ea4b0b960d665bfde031c34d9c5c7906070ad85f9c0f3f'}
+  - {seq: 4, filename: KR3ei074_004.yaml, hash: 'sha256:fc2c684a48fb43b71abe09e5ac3311955a40f674194cb4069221c8982071aaa2'}
+  - {seq: 5, filename: KR3ei074_005.yaml, hash: 'sha256:ecfda121aaa033d8944aa5ee9b8416a074c751923f53cf11d163c7675c0350fe'}
+  - {seq: 6, filename: KR3ei074_006.yaml, hash: 'sha256:7b8bcd9085d1304d3ac42f73d24684ac9777ebfeaf1856008d317d8121bfe519'}
+  - {seq: 7, filename: KR3ei074_007.yaml, hash: 'sha256:48d8f292f356b88b87078bf20d1e4067ff1187980a01d9641d9d28f653288e7c'}
+  - {seq: 8, filename: KR3ei074_008.yaml, hash: 'sha256:81f12c478e53532927f1e056d2de920675aa56e9ff8b2268682e366f54998314'}
+  - {seq: 9, filename: KR3ei074_009.yaml, hash: 'sha256:44a8c4f4646ac0f8edcd9b38d11c6e396ffb73f04f61cf762bd197263370603e'}
+  - {seq: 10, filename: KR3ei074_010.yaml, hash: 'sha256:de7dced4de68c680b9bd0e2ee1ad8f8cef8acdfe7539c010b83cfe2e81e677da'}
+  - {seq: 11, filename: KR3ei074_011.yaml, hash: 'sha256:9b01eda5a1079700cc8da976505084712b0e7b3b3b2964cc8ae4a42053083e0c'}
+  - {seq: 12, filename: KR3ei074_012.yaml, hash: 'sha256:f9b98d853449ac7eac7347aa3d16fb5ccbacff64b79a639f4256fa86035d90ba'}
+  - {seq: 13, filename: KR3ei074_013.yaml, hash: 'sha256:2a54ca2c701e1b05e02e7d9ef03646fbd8e475ce51db52701ca64361ac167a04'}
+  - {seq: 14, filename: KR3ei074_014.yaml, hash: 'sha256:b16e80bba4802cc0cd381a0fa6264c5b923cbb1b323832149ca2ff1e86cfb8be'}
+  - {seq: 15, filename: KR3ei074_015.yaml, hash: 'sha256:98639d1ff4d598b4a0bb9bbc310292e034cb94e90d1f7a6d176441972f32d9f0'}
+  - {seq: 16, filename: KR3ei074_016.yaml, hash: 'sha256:1da07cc20e963f1fe4260e15252d6e3556cbe968f4234ee753e9fe8a4ca45b1c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei074_000.markers.yaml, hash: 'sha256:b2b273c85adb15f5b52d9b69483942ea007dbab57fc5e3b4b4b6aa7b9fcfe09d'}
+  - {seq: 1, role: markers, filename: assets/KR3ei074_001.markers.yaml, hash: 'sha256:6ebbcb399e53464bf23f2c0ec3f9811abe654d98bfd5fa9101ec31b90b2cddb8'}
+  - {seq: 2, role: markers, filename: assets/KR3ei074_002.markers.yaml, hash: 'sha256:31cca552d0e3a809e03f70a3a916202706aad331b15c1dfc5736d08406c2efdd'}
+  - {seq: 3, role: markers, filename: assets/KR3ei074_003.markers.yaml, hash: 'sha256:4a1005c3610d104ed58f452d2c7e6a7e2b41826cb88452b6a5962e3fbb87f66c'}
+  - {seq: 4, role: markers, filename: assets/KR3ei074_004.markers.yaml, hash: 'sha256:7446d5ec6f56fe0a39bc39ae3b4e067c35d4deb6a59d8c64e71856548e3df4db'}
+  - {seq: 5, role: markers, filename: assets/KR3ei074_005.markers.yaml, hash: 'sha256:2a4fcd840be4ecdfc0f10d57c644f62c44ee2ccaaf0dcbbf5674b3f9e892fe28'}
+  - {seq: 6, role: markers, filename: assets/KR3ei074_006.markers.yaml, hash: 'sha256:0edbe80e6c8d2e0aeb11c59840b5c0ab66052404bc486557034f0555e15b5ea9'}
+  - {seq: 7, role: markers, filename: assets/KR3ei074_007.markers.yaml, hash: 'sha256:436d54c6101331309ef53e08b9378031b69098e2865adcf5dd306a594c633dea'}
+  - {seq: 8, role: markers, filename: assets/KR3ei074_008.markers.yaml, hash: 'sha256:35c210a11172ff5f65e503eb5acd00fa8e904c9cddb93974d8318cb31e328f3f'}
+  - {seq: 9, role: markers, filename: assets/KR3ei074_009.markers.yaml, hash: 'sha256:6d44f8aa9c5a41a947775d77ab8d576ece7a7d208bbecf5cd515f0ec4f1d5196'}
+  - {seq: 10, role: markers, filename: assets/KR3ei074_010.markers.yaml, hash: 'sha256:f2b04e28635fb0fc06a0e08f1cbf5ba6d213082e534d7b94889c27a800a061eb'}
+  - {seq: 11, role: markers, filename: assets/KR3ei074_011.markers.yaml, hash: 'sha256:979397bd07cd7d5b49068764f3e073a024d25571b624cde97d160a19e767e404'}
+  - {seq: 12, role: markers, filename: assets/KR3ei074_012.markers.yaml, hash: 'sha256:d708510a47b0dc1aff9ec5859ba0f4531327b19953faa74f86da5615bd32e874'}
+  - {seq: 13, role: markers, filename: assets/KR3ei074_013.markers.yaml, hash: 'sha256:7daed66308de4365a0309022ab0ea039135cbd6a1862ca0cc32d5d4d01e3ae59'}
+  - {seq: 14, role: markers, filename: assets/KR3ei074_014.markers.yaml, hash: 'sha256:3569d1db47fde137b7c097615e5013b64a3cab36553b8f749cc1ceb7ebfa134c'}
+  - {seq: 15, role: markers, filename: assets/KR3ei074_015.markers.yaml, hash: 'sha256:6a3d550ad6a17dade56ad7a5eb6686a80e042209879b8590f0373745baeaebdb'}
+  - {seq: 16, role: markers, filename: assets/KR3ei074_016.markers.yaml, hash: 'sha256:4f7896dec0828f6963c091b18282a8f828f46b2d505df83e8f385598d99a851a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei074_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 475
+  label: 李之用廣嗣紀要序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei074_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 1180
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei074_jc_001-d3d4
+    span:
+    - body
+    - 114
+    - 1180
+  label: 修德篇第一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei074_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 2573
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ei074_jc_002-d4d2
+    span:
+    - body
+    - 3
+    - 2573
+  label: 寡欲篇第二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei074_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 1244
+  label: 卷之三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ei074_jc_003-d5d2
+    span:
+    - body
+    - 3
+    - 1244
+  label: 擇配篇第三
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei074_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 4224
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ei074_jc_004-d6d2
+    span:
+    - body
+    - 3
+    - 4224
+  label: 調元篇第四
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ei074_jc_005-d7.h1s1
+    span:
+    - body
+    - 0
+    - 3714
+  label: 卷之五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ei074_jc_005-d7d2
+    span:
+    - body
+    - 3
+    - 3714
+  label: 協期篇第五
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei074_jc_006-d8.h1s1
+    span:
+    - body
+    - 0
+    - 2094
+  label: 卷之六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ei074_jc_006-d8d6
+    span:
+    - body
+    - 55
+    - 405
+  label: 轉女為男法
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei074_jc_006-d8d7
+    span:
+    - body
+    - 405
+    - 1478
+  label: 護養胎元
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ei074_jc_006-d8d8
+    span:
+    - body
+    - 1478
+    - 2094
+  label: 胎前所忌藥物歌
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei074_jc_007-d9.h1s1
+    span:
+    - body
+    - 0
+    - 2043
+  label: 卷之七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ei074_jc_007-d9d2
+    span:
+    - body
+    - 3
+    - 239
+  label: 調理胎疾
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei074_jc_007-d9d3
+    span:
+    - body
+    - 239
+    - 1409
+  label: 妊娠墮胎
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ei074_jc_007-d9d4
+    span:
+    - body
+    - 1409
+    - 2043
+  label: 妊娠漏胎
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei074_jc_008-d10.h1s1
+    span:
+    - body
+    - 0
+    - 2235
+  label: 卷之八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ei074_jc_008-d10d2
+    span:
+    - body
+    - 3
+    - 753
+  label: 胎動不安
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei074_jc_008-d10d3
+    span:
+    - body
+    - 753
+    - 1319
+  label: 妊娠聚積
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ei074_jc_008-d10d4
+    span:
+    - body
+    - 1319
+    - 2235
+  label: 妊娠惡阻
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ei074_jc_009-d11.h1s1
+    span:
+    - body
+    - 0
+    - 2019
+  label: 卷之九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3ei074_jc_009-d11d2
+    span:
+    - body
+    - 3
+    - 506
+  label: 妊娠子懸
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ei074_jc_009-d11d3
+    span:
+    - body
+    - 506
+    - 1128
+  label: 妊娠子煩
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ei074_jc_009-d11d4
+    span:
+    - body
+    - 1128
+    - 1430
+  label: 妊娠子滿
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ei074_jc_009-d11d5
+    span:
+    - body
+    - 1430
+    - 2019
+  label: 妊娠子腫
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ei074_jc_010-d12.h1s1
+    span:
+    - body
+    - 0
+    - 2320
+  label: 卷之十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3ei074_jc_010-d12d2
+    span:
+    - body
+    - 3
+    - 1660
+  label: 妊娠傷寒
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ei074_jc_010-d12d3
+    span:
+    - body
+    - 1660
+    - 1901
+  label: 妊娠霍亂
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ei074_jc_010-d12d4
+    span:
+    - body
+    - 1901
+    - 2320
+  label: 妊娠風痙
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ei074_jc_011-d13.h1s1
+    span:
+    - body
+    - 0
+    - 809
+  label: 卷之十一
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3ei074_jc_011-d13d2
+    span:
+    - body
+    - 4
+    - 480
+  label: 妊娠心腹腰諸痛
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ei074_jc_011-d13d3
+    span:
+    - body
+    - 480
+    - 809
+  label: 妊娠痎瘧
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ei074_jc_012-d14.h1s1
+    span:
+    - body
+    - 0
+    - 1743
+  label: 卷之十二
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3ei074_jc_012-d14d2
+    span:
+    - body
+    - 4
+    - 335
+  label: 妊娠吐瀉
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ei074_jc_012-d14d3
+    span:
+    - body
+    - 335
+    - 774
+  label: 妊娠痢疾
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ei074_jc_012-d14d4
+    span:
+    - body
+    - 774
+    - 1102
+  label: 妊娠喘嗽
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ei074_jc_012-d14d5
+    span:
+    - body
+    - 1102
+    - 1743
+  label: 妊娠子淋
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ei074_jc_013-d15.h1s1
+    span:
+    - body
+    - 0
+    - 1475
+  label: 卷之十三
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3ei074_jc_013-d15d2
+    span:
+    - body
+    - 4
+    - 334
+  label: 妊娠轉胞
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ei074_jc_013-d15d3
+    span:
+    - body
+    - 334
+    - 402
+  label: 妊娠便秘
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ei074_jc_013-d15d4
+    span:
+    - body
+    - 402
+    - 1475
+  label: 妊娠雜症
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ei074_jc_014-d16.h1s1
+    span:
+    - body
+    - 0
+    - 1718
+  label: 卷之十四
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3ei074_jc_014-d16d2
+    span:
+    - body
+    - 4
+    - 923
+  label: 預防難產
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ei074_jc_014-d16d3
+    span:
+    - body
+    - 923
+    - 1718
+  label: 難產七因
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ei074_jc_015-d17.h1s1
+    span:
+    - body
+    - 0
+    - 1248
+  label: 卷之十五
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3ei074_jc_015-d17d2
+    span:
+    - body
+    - 4
+    - 1248
+  label: 育嬰方論
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ei074_jc_016-d18.h1s1
+    span:
+    - body
+    - 0
+    - 14005
+  label: 卷之十六
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3ei074_jc_016-d18d2
+    span:
+    - body
+    - 4
+    - 14005
+  label: 幼科醫案
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ei074_jc_016-d18.d2d4
+    span:
+    - body
+    - 64
+    - 671
+  label: 胎疾
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei074_jc_016-d18.d2d5
+    span:
+    - body
+    - 671
+    - 3401
+  label: 驚風
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei074_jc_016-d18.d2d6
+    span:
+    - body
+    - 3401
+    - 4921
+  label: 疳病
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei074_jc_016-d18.d2d7
+    span:
+    - body
+    - 4921
+    - 6207
+  label: 咳嗽哮喘
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei074_jc_016-d18.d2d8
+    span:
+    - body
+    - 6207
+    - 6806
+  label: 吐嘔
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei074_jc_016-d18.d2d9
+    span:
+    - body
+    - 6806
+    - 9587
+  label: 泄瀉
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei074_jc_016-d18.d2d10
+    span:
+    - body
+    - 9587
+    - 10598
+  label: 痢疾
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei074_jc_016-d18.d2d11
+    span:
+    - body
+    - 10598
+    - 11082
+  label: 瘧疾
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei074_jc_016-d18.d2d12
+    span:
+    - body
+    - 11082
+    - 11442
+  label: 腫病
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei074_jc_016-d18.d2d13
+    span:
+    - body
+    - 11442
+    - 11500
+  label: 脹病
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei074_jc_016-d18.d2d14
+    span:
+    - body
+    - 11500
+    - 11800
+  label: 發熱
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei074_jc_016-d18.d2d15
+    span:
+    - body
+    - 11800
+    - 12463
+  label: 腹痛
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei074_jc_016-d18.d2d16
+    span:
+    - body
+    - 12463
+    - 13097
+  label: 啼哭
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei074_jc_016-d18.d2d17
+    span:
+    - body
+    - 13097
+    - 13391
+  label: 卵腫
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei074_jc_016-d18.d2d18
+    span:
+    - body
+    - 13391
+    - 13676
+  label: 結核
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei074_jc_016-d18.d2d19
+    span:
+    - body
+    - 13676
+    - 13891
+  label: 蟲疥
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR3ei074_jc_016-d18.d2d20
+    span:
+    - body
+    - 13891
+    - 14005
+  label: 口瘡
+  type: section
+  level: 3
+hash: sha256:364058782b9839fab3b6c4860681982c133338878c2377aee5760e27d243614b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
