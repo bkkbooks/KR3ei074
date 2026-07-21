@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ei074_000-jc.yaml, hash: 'sha256:0e4391aa7a228fad1554db4b5252860cfe069a2ae7c4cb26c2add434d7adb26d'}
+  - {seq: 0, filename: KR3ei074_000-jc.yaml, hash: 'sha256:1e48942f8ea181c7258c838dbf008a9ee565a5a84ac9fa97bbe41d614429ed90'}
   - {seq: 1, filename: KR3ei074_001-jc.yaml, hash: 'sha256:9c58f9570b00d6affa7d72116ca520a14f448e385cae921c171186fdb61f4f44'}
   - {seq: 2, filename: KR3ei074_002-jc.yaml, hash: 'sha256:e0d4abe2a829395be75df5f8448f15eb04296a8b715da37afc4dff7381cabd71'}
   - {seq: 3, filename: KR3ei074_003-jc.yaml, hash: 'sha256:23ce1173e386c336dbc0c94aca55dd1b6767176d6d27c5cabb049ad1f4adc526'}
@@ -35,7 +35,7 @@ assets:
   - {seq: 15, filename: KR3ei074_015-jc.yaml, hash: 'sha256:ddba9206ef1155a509b5473ea156d214b6faca1eeb05c55bbdd74b084c3d5325'}
   - {seq: 16, filename: KR3ei074_016-jc.yaml, hash: 'sha256:1802e152abee54887b0acede7c820eb69b64b7bacc85845574e1d69d764538e8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei074_000-jc.markers.yaml, hash: 'sha256:b381d1434dff7af153820f70763111078354e1ec079c90ca9b8a52501dd11375'}
+  - {seq: 0, role: markers, filename: assets/KR3ei074_000-jc.markers.yaml, hash: 'sha256:7ee4065f553ea69b2243992bb33f35fb2001fd351ff06a12947209951c0dd31d'}
   - {seq: 1, role: markers, filename: assets/KR3ei074_001-jc.markers.yaml, hash: 'sha256:186c2f10cca29959631f5712edd1ec167a0b8616c0721df72df684f7e2f07c6f'}
   - {seq: 2, role: markers, filename: assets/KR3ei074_002-jc.markers.yaml, hash: 'sha256:e4e40f6f29cfd82f4b56f15d94e97084f4835d383cf506a400db275f13b616cf'}
   - {seq: 3, role: markers, filename: assets/KR3ei074_003-jc.markers.yaml, hash: 'sha256:9739389976a148386bad48ccf648c21e15f771477fd419018764ffa1bca432fc'}
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ei074_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 475
   label: 李之用廣嗣紀要序
@@ -733,4 +733,4 @@ table_of_contents:
   label: 口瘡
   type: section
   level: 3
-hash: sha256:4a7efe9f2c2ffafe1239de5ef67f634ad0eff21655ff6aa63799fcf9bcddb11f
+hash: sha256:5e7321a16f8ce9a78c954e00d9c7dc8f295bcd89db68e8ba1c32b55b71b86e4e
